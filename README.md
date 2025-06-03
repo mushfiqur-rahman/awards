@@ -1,5 +1,8 @@
 # Awards - Winning Website by MUSHFIQ
 
+![awards - winning website Screenshot](https://github.com/user-attachments/assets/9277dabc-c7d9-4f49-9295-cbcb9207ddec)
+
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - GSAP
